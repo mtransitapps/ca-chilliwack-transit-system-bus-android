@@ -31,7 +31,7 @@ http://bctransit.com/*/footer/open-data
 This application is free and open-source:
 https://github.com/mtransitapps/ca-chilliwack-transit-system-bus-android
 
-This app is not related with BC Transit and Chilliwack Transit System.
+This app is not related with BC Transit and Chilliwack Transit System and Agassiz-Harrison Transit System.
 
 Permissions:
 - Other: required to read news from YouTube and Twitter

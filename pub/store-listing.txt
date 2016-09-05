@@ -5,7 +5,7 @@ Chilliwack Transit System buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from July 1, 2016 to September 5, 2016.
+Schedule from September 6, 2016 to June 24, 2017.
 Tweets from @BCTransit.
 ----------
 Full description:

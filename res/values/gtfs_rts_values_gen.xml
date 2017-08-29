@@ -5,8 +5,8 @@
     <bool name="gtfs_rts_frequency_available">false</bool>
     <string name="gtfs_rts_timezone">America/Vancouver</string>
     <string name="gtfs_rts_area_min_lat">49.072663995834695</string>
-    <string name="gtfs_rts_area_max_lat">49.303603995792</string>
+    <string name="gtfs_rts_area_max_lat">49.3825294756018</string>
     <string name="gtfs_rts_area_min_lng">-122.054257759847</string>
-    <string name="gtfs_rts_area_max_lng">-121.750954999696</string>
+    <string name="gtfs_rts_area_max_lng">-121.41995444574201</string>
     <string name="gtfs_rts_color">34B233</string>
 </resources>

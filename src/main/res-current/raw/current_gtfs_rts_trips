@@ -4,13 +4,13 @@
 201,0,'Malls',2
 301,0,'Chilliwack',3
 400,0,'Malls',4
-401,0,'Teskey / Sylvan',4
+401,0,'Promontory',4
 500,0,'Yarrow Greendale',5
 700,0,'Chilliwack',7
 701,0,'Malls',7
 800,0,'Tyson',8
-901,0,'East',9
-900,0,'West',9
+901,0,'AM',9
+900,0,'PM',9
 1101,0,'Chilliwack',11
 1100,0,'Harrison',11
 2200,0,'North',22

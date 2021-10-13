@@ -1,2 +1,1 @@
-Chilliwack Transit System buses for MonTransit.
-Schedule. Alerts. News.
+Chilliwack Transit System buses for MonTransit. Schedule. Alerts. News.

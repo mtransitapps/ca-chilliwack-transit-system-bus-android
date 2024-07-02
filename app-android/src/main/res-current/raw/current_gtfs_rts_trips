@@ -7,6 +7,8 @@
 5401,0,'Promontory',54
 5501,0,'Greendale',55
 5500,0,'UFV Chilliwack',55
+5600,0,'Cottonwood Mall',56
+5601,0,'Cultus Lk Marina',56
 5701,0,'Cottonwood Mall',57
 5700,0,'Downtown',57
 5800,0,'Cottonwood Mall',58
@@ -19,3 +21,10 @@
 7100,0,'Harrison Hot Spgs',71
 7201,0,'Agassiz',72
 7200,0,'Hope',72
+1000701,0,'Bourquin Exch',10007
+1000700,0,'McMillan',10007
+1002101,0,'Aldergrove',10021
+1002100,0,'Bourquin Exch',10021
+1003101,0,'Bourquin Exch',10031
+1003100,0,'Mission Exch',10031
+24003100,0,'Mission Exch Express',240031
